@@ -5,11 +5,13 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 const tailwind = require('tailwindcss')
-const purgecss = require('@fullhuman/postcss-purgecss')
+// const purgecss = require('@fullhuman/postcss-purgecss')
 
 const postcssPlugins = [
   tailwind(),
 ]
+
+// postcssPlugins.push(purgecss(require('./purgecss.config.js')))
 
 module.exports = {
   siteName: 'SRPWeb',
