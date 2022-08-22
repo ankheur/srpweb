@@ -20,7 +20,30 @@ module.exports = {
 
   // pathPrefix: '/dist',
   plugins: [
-    
+    {
+      use: "gridsome-plugin-htaccess",
+      options: {
+        textCompression: [
+          "text/html",
+          "application/javascript",
+          "text/javascript",
+          "text/css",
+          "image/svg+xml"
+        ],
+        fileExpirations: {
+          fileTypes: {
+            "text/css": "access plus 1 year",
+            "text/html": "access plus 1 day",
+            "application/javascript": "access plus 1 year",
+            "image/png": "access plus 1 month",
+            "image/jpeg": "access plus 1 month",
+            "image/webp": "access plus 1 month",
+            "image/svg+xml": "access plus 1 month",
+          },
+          default: "access plus 1 month"
+        },
+      },
+    },
   ],
   css: {
         loaderOptions: {
