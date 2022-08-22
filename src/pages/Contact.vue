@@ -18,7 +18,7 @@
                             <div class="flex flex-col items-center justify-center lg:col-start-2 col-span-1">
                                 <div class="relative p-5">
                                     <div class="absolute z-10 w-full h-full -mt-5 -ml-5 rounded-full rounded-tr-none bg-blue-50"></div>
-                                    <g-image class="relative z-20 w-full rounded-full" src="~/assets/images/pierrick_rancoeur.jpg"/>
+                                    <g-image alt="Photo Pierrick Rancoeur" class="relative z-20 w-full rounded-full" src="~/assets/images/pierrick_rancoeur.jpg"/>
                                 </div>
                                 <div class="mt-3 space-y-2 text-center">
                                     <div class="space-y-1 text-lg font-medium leading-6">
