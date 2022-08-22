@@ -24,7 +24,7 @@
           <div class="flex grid grid-cols-12 pb-10 sm:px-5 gap-x-8 gap-y-16">
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://alece.fr/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image alt="Page d'accueil du site Alece 92" class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/alece.fr.jpg"/>
+                      <g-image alt="Page d'accueil du site alece.fr" class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/alece.fr.jpg"/>
                   </a>
                   <div class="bg-purple-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Application web</span>
@@ -36,7 +36,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://wrapas.fr/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/wrapas.fr.jpg"/>
+                      <g-image alt="Page d'accueil du site wrapas.fr" class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/wrapas.fr.jpg"/>
                   </a>
                   <div class="bg-yellow-400 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>E-Commerce</span>
@@ -48,7 +48,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://agencebec.pro/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/agencebec.pro.jpg"/>
+                      <g-image alt="Formulaire du site agencebec.pro" class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/agencebec.pro.jpg"/>
                   </a>
                   <div class="bg-purple-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Application web</span>
@@ -60,7 +60,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://equilibredesenergies.org/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/edenv2.jpg"/>
+                      <g-image alt="Page d'accueil du site equilibredesenergies.org" class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/edenv2.jpg"/>
                   </a>
                   <div class="bg-red-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Site vitrine</span>
@@ -72,7 +72,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://fmonceau.fr/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/fmonceau.fr.jpg"/>
+                      <g-image alt="Page de gestion clients de l'application web de la Fiduciaire Monceau" class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/fmonceau.fr.jpg"/>
                   </a>
                   <div class="bg-purple-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Application web</span>
@@ -84,7 +84,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://gribouilli-boheme.com/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/gribouilli-boheme.com.jpg"/>
+                      <g-image alt="Page d'accueil du site gribouilli-boheme.com" class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/gribouilli-boheme.com.jpg"/>
                   </a>
                   <div class="bg-red-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Site vitrine</span>
@@ -96,7 +96,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://qualisport.pro/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/qualisport.pro.jpg"/>
+                      <g-image alt="Page de gestion des dossiers de l'application qualisport.pro" class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/qualisport.pro.jpg"/>
                   </a>
                   <div class="bg-purple-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Application web</span>
@@ -108,7 +108,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://agencebec.fr/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/agencebec.fr-dashboard.jpg"/>
+                      <g-image alt="Tableau de bord du site agencebec.fr" class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/agencebec.fr-dashboard.jpg"/>
                   </a>
                   <div class="bg-purple-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Application web</span>
@@ -120,7 +120,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://qualisport.fr/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/qualisport.fr.jpg"/>
+                      <g-image alt="Page d'accueil du site qualisport.fr" class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/qualisport.fr.jpg"/>
                   </a>
                   <div class="bg-red-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Site vitrine</span>
@@ -132,7 +132,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://agencebec.fr/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/agencebec.fr.jpg"/>
+                      <g-image alt="Page d'accueil de l'application agencebec.fr" class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="~/assets/images/agencebec.fr.jpg"/>
                   </a>
                   <div class="bg-purple-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Application web</span>
@@ -144,7 +144,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://newdomus.fr/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/newdomus.fr.jpg"/>
+                      <g-image alt="Page d'accueil du site newdomus.fr" class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/newdomus.fr.jpg"/>
                   </a>
                   <div class="bg-yellow-400 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>E-Commerce</span>
@@ -156,7 +156,7 @@
 
               <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
                   <a href="https://kesako.info/" target="_blank" rel="noopener noreferer" class="block">
-                      <g-image class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/kesako.info.jpg"/>
+                      <g-image alt="Page d'accueil du site kesako.info" class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="~/assets/images/kesako.info.jpg"/>
                   </a>
                   <div class="bg-red-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                       <span>Site vitrine</span>
