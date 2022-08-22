@@ -42,6 +42,8 @@ module.exports = {
           },
           default: "access plus 1 month"
         },
+        forceHttps: true,
+        disableDirectoryIndex: true,
       },
     },
     {
