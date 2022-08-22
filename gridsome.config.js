@@ -44,6 +44,12 @@ module.exports = {
         },
       },
     },
+    {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+
+      }
+    }
   ],
   css: {
         loaderOptions: {
