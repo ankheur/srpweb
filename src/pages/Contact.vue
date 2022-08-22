@@ -15,7 +15,7 @@
 
                     <div class="relative px-16 mx-auto max-w-7xl">
                         <div class="grid w-full gap-10 grid-cols-1 lg:grid-cols-3">
-                            <div class="flex flex-col items-center justify-center lg:col-start-2 col-span-1">
+                            <article class="flex flex-col items-center justify-center lg:col-start-2 col-span-1">
                                 <div class="relative p-5">
                                     <div class="absolute z-10 w-full h-full -mt-5 -ml-5 rounded-full rounded-tr-none bg-blue-50"></div>
                                     <g-image alt="Photo Pierrick Rancoeur" class="relative z-20 w-full rounded-full" src="~/assets/images/pierrick_rancoeur.jpg"/>
@@ -23,8 +23,6 @@
                                 <div class="mt-3 space-y-2 text-center">
                                     <div class="space-y-1 text-lg font-medium leading-6">
                                         <h3 class="text-xl">Pierrick Rancoeur</h3>
-                                        <!-- <a href="mailto:pierrick@srpweb.fr" class="text-blue-600">pierrick@srpweb.fr</a><br>
-                                        <a href="tel:+33631395999">06 31 39 59 99</a> -->
                                     </div>
                                 </div>
                                 <div class="w-full shadow rounded-sm border border-gray-100 mt-6">
@@ -63,7 +61,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>            
+                            </article>            
                         </div>
                     </div>
 
@@ -102,7 +100,13 @@
 import Header from '../components/Header.vue';
 export default {
   metaInfo: {
-      title: "Contact"
+      title: "Contact",
+      link: [
+        {
+          rel: "canonical",
+          content: "https://srpweb.fr/contact/",
+        },
+      ],
   },
   components: { Header }
 }
