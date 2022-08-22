@@ -31,7 +31,7 @@
             <div class="container py-32 mx-auto text-center sm:px-4">
 
                 <h1 class="text-4xl font-extrabold leading-10 tracking-tight text-white sm:text-5xl sm:leading-none md:text-6xl xl:text-7xl"><span class="block">Du site internet</span> <span class="relative inline-block mt-3">à l'application web</span></h1>
-                <div class="max-w-lg mx-auto mt-6 text-sm text-center text-indigo-200 md:mt-12 sm:text-base md:max-w-xl md:text-lg xl:text-xl">SRPWeb c'est 6 ans d'expertise de développement<br> de sites internet et d'applications web sur-mesure<br> pour répondre à vos besoins</div>
+                <div class="max-w-lg mx-auto mt-6 text-sm text-center text-indigo-100 md:mt-12 sm:text-base md:max-w-xl md:text-lg xl:text-xl">SRPWeb c'est 6 ans d'expertise de développement<br> de sites internet et d'applications web sur-mesure<br> pour répondre à vos besoins</div>
                 <div class="flex items-center justify-center max-w-md mx-auto mt-10 overflow-hidden">
                     <g-link to="/contact/" class="inline-flex items-center h-12 px-4 text-center font-bold leading-6 text-white transition duration-150 ease-in-out bg-indigo-400 border border-transparent hover:bg-indigo-700 focus:outline-none active:bg-indigo-700 rounded-full">
                         Contactez-nous !
