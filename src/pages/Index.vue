@@ -90,7 +90,7 @@
                           <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 " viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><polyline points="12 3 20 7.5 20 16.5 12 21 4 16.5 4 7.5 12 3"></polyline><line x1="12" y1="12" x2="20" y2="7.5"></line><line x1="12" y1="12" x2="12" y2="21"></line><line x1="12" y1="12" x2="4" y2="7.5"></line><line x1="16" y1="5.25" x2="8" y2="9.75"></line></svg>
                       </div>
                       <h3 class="text-xl font-medium text-gray-700">Une solution clé en main</h3>
-                      <p class="text-base text-center text-gray-500">Installation, configuration, tout est prêt pour vous.</p>
+                      <p class="text-base text-center text-gray-600">Installation, configuration, tout est prêt pour vous.</p>
                   </div>
 
                   <div class="flex flex-col items-center justify-between col-span-4 px-8 py-12 space-y-4 bg-gray-100 sm:rounded-xl">
@@ -98,7 +98,7 @@
                           <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 " viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M8 9l3 3l-3 3"></path><line x1="13" y1="15" x2="16" y2="15"></line><rect x="3" y="4" width="18" height="16" rx="2"></rect></svg>
                       </div>
                       <h3 class="text-xl font-medium text-gray-700">Un code optimisé</h3>
-                      <p class="text-base text-center text-gray-500">Utilisant les dernières technologies du web.</p>
+                      <p class="text-base text-center text-gray-600">Utilisant les dernières technologies du web.</p>
                   </div>
 
                   <div class="flex flex-col items-center justify-between col-span-4 px-8 py-12 space-y-4 bg-gray-100 sm:rounded-xl">
@@ -106,7 +106,7 @@
                           <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 " viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="9.5" y1="11" x2="9.51" y2="11"></line><line x1="14.5" y1="11" x2="14.51" y2="11"></line><path d="M9.5 15a3.5 3.5 0 0 0 5 0"></path><path d="M7 5h1v-2h8v2h1a3 3 0 0 1 3 3v9a3 3 0 0 1 -3 3v1h-10v-1a3 3 0 0 1 -3 -3v-9a3 3 0 0 1 3 -3"></path></svg>
                       </div>
                       <h3 class="text-xl font-medium text-gray-700">La satisfaction client</h3>
-                      <p class="text-base text-center text-gray-500">Du devis à la réalisation, votre projet c'est aussi notre projet.</p>
+                      <p class="text-base text-center text-gray-600">Du devis à la réalisation, votre projet c'est aussi notre projet.</p>
                   </div>
 
                   <div class="flex flex-col items-center justify-between col-span-4 px-8 py-12 space-y-4 bg-gray-100 sm:rounded-xl">
@@ -114,7 +114,7 @@
                           <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 " viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="15" y1="5" x2="15" y2="7"></line><line x1="15" y1="11" x2="15" y2="13"></line><line x1="15" y1="17" x2="15" y2="19"></line><path d="M5 5h14a2 2 0 0 1 2 2v3a2 2 0 0 0 0 4v3a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-3a2 2 0 0 0 0 -4v-3a2 2 0 0 1 2 -2"></path></svg>
                       </div>
                       <h3 class="text-xl font-medium text-gray-700">Des services complémentaires</h3>
-                      <p class="text-base text-center text-gray-500">Pour une utilisation et une évolution en toute sérénité.</p>
+                      <p class="text-base text-center text-gray-600">Pour une utilisation et une évolution en toute sérénité.</p>
                   </div>
 
               </div>
