@@ -51,6 +51,14 @@ module.exports = {
       options: {
 
       }
+    },
+    {
+      use: 'gridsome-plugin-robots',
+      options: {
+        host: 'https://srpweb.fr',
+        sitemap: 'https://srpweb.fr/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
     }
   ],
   css: {
